@@ -211,7 +211,7 @@ elif pilih == 3:
 	tik()
 	os.system ('bash babi_lu.sh')
 elif pilih == 4:
-	os.system('xdg-open https://adsafelink.com/9RRWZ')
+	os.system('xdg-open https://wa.me/6281227443846')
 elif pilih == 0:
 	os.system('clear')
 	print '\033[1;37mTerimakasih Telah Menggunakan Tools Ini ^_^'
